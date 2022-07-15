@@ -1,4 +1,5 @@
 # ** Learn to Program**
+
 ## **Intro**
 
 - coding is telling a computer how to do something using a language
@@ -253,7 +254,7 @@
 
 - some methods that worked on strings work on arrays too, like +, =, . length, or reverse
 - you can .to_s an array to make it clear your working with strings
-- when you puts an array remeber it puts each item individualy from the array unless joined
+- when you puts an array remember it puts each item individualy from the array unless joined
 - push and pop allow you to remove items from the end or the begining of an array changing its length
-- .last will call on the last item of an array
+- .last will call on the last item of an array 
 
